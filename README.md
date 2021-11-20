@@ -1,7 +1,7 @@
 ## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Let your dreams come true !
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mastercodingbear&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
 
