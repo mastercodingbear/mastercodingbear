@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/master/img/hello.gif" /> Let your dreams come true !
+## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Let your dreams come true !
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
@@ -17,7 +17,7 @@ Are you looking for an honest and superior senior full stack developer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
 </p>
 
-<img align="right" width="350" src="https://github.com/mastercodingbear/mastercodingbear/blob/master/img/image03.gif" />
+<img align="right" width="350" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/image03.gif" />
 
 ##
 ##### My mission
@@ -60,12 +60,12 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/master/img/pwa.png"></code>
+<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/pwa.png"></code>
 <code><img height="35" width="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
-<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/master/img/erp.png"></code>
-<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/master/img/crm.png"></code>
-<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/master/img/b2b.png"></code>
-<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/master/img/b2c.png"></code>
+<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/erp.png"></code>
+<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/crm.png"></code>
+<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/b2b.png"></code>
+<code><img height="35" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/b2c.png"></code>
 <br><br>
 </details>
 
