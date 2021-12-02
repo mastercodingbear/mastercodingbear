@@ -1,6 +1,6 @@
 ## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Let your dreams come true !
 
-## Epic Full Stack Developer | Blockchain Expert
+## Epic Full Stack Developer | Blockchain Developer
 
 -@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
