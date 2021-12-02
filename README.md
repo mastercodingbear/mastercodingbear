@@ -66,8 +66,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 ##
 ##### GitHub status
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mastercodingbear&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodingbear&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodingbear&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
 <div>
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
