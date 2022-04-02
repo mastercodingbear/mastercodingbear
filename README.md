@@ -5,10 +5,10 @@
 -@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and OOP.<br>
-6+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
-Moving blockchain world in recent years and already have enough experience.<br>
+8+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
+Jumping into the blockchain world 4 years ago and already have enough experience.<br>
 I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
-Are you looking for an honest and superior senior full stack developer?<br>
+Are you looking for an honest and superior senior full-stack blockchain engineer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
 </p>
 
