@@ -2,6 +2,10 @@
 
 ### Dream is yours, Implementation is mine.
 
+- Lifelong learner
+- A tech-curious guy
+- Self-starter
+
 ##
 ##### My mission
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
