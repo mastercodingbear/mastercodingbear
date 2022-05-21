@@ -1,14 +1,13 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Let your dreams come true !
+## Epic Full Stack Blockchain Engineer
 
-## Epic Full Stack Developer | Blockchain Developer
+**Dream is yours, Implementation is mine.**
 
--@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and OOP.<br>
 8+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
 Jumping into the blockchain world 4 years ago and already have enough experience.<br>
 I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
-Are you looking for an honest and superior senior full-stack blockchain engineer?<br>
+Are you looking for an honest and superior senior full-stack engineer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
 </p>
 
@@ -24,21 +23,21 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 <table>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/go-77-1175166.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/ethereum-10-645903.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nuxt-dot-js-3521615-2945059.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/html5-2474805-2056091.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/asp-3-226071.png" width="100"></td>
@@ -54,6 +53,8 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/apple-1237-1174963.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/wordpress-2752021-2284838.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
    </tr>
   </table>
 <br />
@@ -93,7 +94,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 ##
 ##### GitHub status
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogw&layout=compact&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodingbear&layout=compact&theme=gotham&count_private=true">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mastercodingbear&show_icons=true&theme=gotham&count_private=true">
 </div>
 
