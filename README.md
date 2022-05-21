@@ -96,3 +96,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogw&layout=compact&theme=gotham&count_private=true">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mastercodingbear&show_icons=true&theme=gotham&count_private=true">
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+</div>
