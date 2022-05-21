@@ -98,5 +98,5 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mastercodingbear&column=7&theme=onedark" />
 </div>
