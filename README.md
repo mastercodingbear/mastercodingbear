@@ -2,9 +2,8 @@
 
 ### Dream is yours, Implementation is mine.
 
-- Lifelong learner
-- A tech-curious guy
 - Self-starter
+- Lifelong learner & A tech-curious guy
 
 ##
 ##### My mission
