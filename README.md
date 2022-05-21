@@ -6,7 +6,7 @@
 - Lifelong learner & A tech-curious guy
 
 ##
-##### My mission
+### My mission
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
 - [ App architecture | Clean & Efficent code | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
 
