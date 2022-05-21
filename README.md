@@ -92,9 +92,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 
 ##
 ##### GitHub status
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodingbear&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
-</p>
-<div>
-    <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogw&layout=compact&theme=gotham&count_private=true">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mastercodingbear&show_icons=true&theme=gotham&count_private=true">
 </div>
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
