@@ -1,4 +1,4 @@
-## Epic Full Stack Blockchain Engineer
+## Epic Full Stack Engineer
 
 ### Dream is yours, Implementation is mine.
 
