@@ -1,4 +1,4 @@
-## Epic Full Stack Engineer
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Senior Full-Stack engineer </h1>
 
 ### Dream is yours, Implementation is mine.
 
@@ -9,6 +9,10 @@
 ### My mission
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
 - [ App architecture | Clean & Efficent code | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mastercodingbear&column=7&theme=onedark" />
+</div>
 
 ##
 **Languages and Tools :**  
@@ -79,8 +83,4 @@
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodingbear&layout=compact&theme=gotham&count_private=true">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mastercodingbear&show_icons=true&theme=gotham&count_private=true">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mastercodingbear&column=7&theme=onedark" />
 </div>
