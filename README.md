@@ -1,14 +1,15 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full-Stack Blockchain developer </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Full-Stack Blockchain Developer </h1>
 
-### Dream is yours, Implementation is mine.
+### Technology that is cutting edge
 
 - Self-starter
 - Lifelong learner & A tech-curious guy
+- Dream Builder
 
 ##
 ### My mission
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
-- [ App architecture | Clean & Efficent code | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
+- [ App architecture | Clean & Efficent code | Test driven development | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mastercodingbear&column=7&theme=onedark" />
