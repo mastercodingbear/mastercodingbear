@@ -26,6 +26,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nuxt-dot-js-3521615-2945059.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
+    <td><img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
