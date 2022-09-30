@@ -36,8 +36,11 @@
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/aws-1869025-1583149.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-4-1174926.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/google-cloud-2038785-1721675.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/firebase-3521427-2944871.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/kubernets-283489.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-4-1174926.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jira-3628861-3030001.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-5-1175140.png" width="100"></td>
