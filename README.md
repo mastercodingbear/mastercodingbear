@@ -25,13 +25,12 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nuxt-dot-js-3521615-2945059.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/go-77-1175166.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/flutter-3628777-3030139.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/rust-3521686-2945130.png" width="100"></td>
   </tr>
   <tr>
